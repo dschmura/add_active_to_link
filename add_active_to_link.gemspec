@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = "jQuery snippet for Rails projects that parses the url for the current page, and adds an 'active' class decoration to links that match the current page.
 
 By default this snippet is designed to work with Twitter Bootstrap v4 header navigation. However, you can target different elements in your page(s) by modifying the active_element variable. In the default it is targetting links within a line item within a header element with a class of navbar-nav."
-  spec.homepage      = "https://github.com/dschmura/add_active_to_link_gem"
+  spec.homepage      = "https://github.com/dschmura/add_active_to_link"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
